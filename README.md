@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun</h1>
-<h3 align="center">Lest change something</h3>
+<h3 align="center">Take it into virtual world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipuntharuksha&label=Profile%20views&color=0e75b6&style=flat" alt="nipuntharuksha" /> </p>
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@nipuntharuksha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@nipuntharuksha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nipun-tharuksha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nipun-tharuksha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11027506" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11027506" height="30" width="40" /></a>
 <a href="https://instagram.com/nipun.tharuksha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nipun.tharuksha" height="30" width="40" /></a>
