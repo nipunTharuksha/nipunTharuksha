@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun</h1>
-<h3 align="center">Take it into virtual world</h3>
+<h3 align="center">Take it into virtuality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipuntharuksha&label=Profile%20views&color=0e75b6&style=flat" alt="nipuntharuksha" /> </p>
 
